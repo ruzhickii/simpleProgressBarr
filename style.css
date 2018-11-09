@@ -1,0 +1,8 @@
+.hidden-block {
+	display: none;
+}
+
+progress {
+	width: 100%;
+	margin: 0 auto;
+}
